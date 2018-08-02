@@ -52,6 +52,8 @@ author:
 # Reading files
 include:
   - _pages
+exclude:
+  - vendor
 
 # Posts settings
 defaults:
