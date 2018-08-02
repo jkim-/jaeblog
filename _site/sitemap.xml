@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://jaehongkim.xyz/jekyll/update/2018/08/01/welcome-to-jekyll.html</loc>
-<lastmod>2018-08-01T04:21:29+00:00</lastmod>
+<loc>http://142.93.27.23:4000/caltech/2018/08/02/how-to-unsubscribe-from-caltech-marketplace.html</loc>
+<lastmod>2018-08-02T16:55:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://jaehongkim.xyz/about/</loc>
+<loc>http://142.93.27.23:4000/about/</loc>
 </url>
 <url>
-<loc>http://jaehongkim.xyz/</loc>
+<loc>http://142.93.27.23:4000/</loc>
 </url>
 </urlset>

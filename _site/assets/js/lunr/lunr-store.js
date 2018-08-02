@@ -1,6 +1,6 @@
 var store = [{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
+        "title": "How to unsubscribe from Caltech marketplace mailing list",
+        "excerpt":"1. Access campus network Access the campus network (either byVPN or connecting to campus Wi-Fi). 2. Go to the mailing list administration page Next, go tohttps://lists.caltech.edu/listinfo/marketplace,and enter your email at the bottom next to Unsubscribe or edit options. 3. Unsubscribe! Simply click the unsubscribe button and you’re done! ","categories": ["Caltech"],
         "tags": [],
-        "url": "http://jaehongkim.xyz/jekyll/update/2018/08/01/welcome-to-jekyll.html",
+        "url": "http://142.93.27.23:4000/caltech/2018/08/02/how-to-unsubscribe-from-caltech-marketplace.html",
         "teaser":null}]
