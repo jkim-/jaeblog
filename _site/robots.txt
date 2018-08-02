@@ -1,1 +1,3 @@
-Sitemap: http://jaehongkim.xyz/sitemap.xml
+User-agent:*
+Disallow:
+Sitemap: https://jaehongkim.xyz/sitemap.xml
