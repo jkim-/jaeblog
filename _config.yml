@@ -93,10 +93,7 @@ staticman:
 
 # Analytics
 analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-123362643-1"
-#    anonymize_ip: false
+  provider: "custom" # google-universal
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
