@@ -3,6 +3,8 @@ permalink: /about/
 title: "About Me"
 ---
 
+![Josephine Peak](/assets/images/josephine-peak.jpg){:class="img-responsive"}
+
 My name is Jae, and I'm currently a PhD candidate at [Caltech](https://caltech.edu) studying experimental particle physics while minoring in computer science.
 
 My primary interests are data analysis and inference.  I enjoy working with challenging real-world datasets that are not as 'nice' as the standard datatsets used in many ML research settings.

@@ -25,7 +25,7 @@ github_username: "jkim-"
 
 author:
   name: "Jae Hong Kim"
-  #avatar: "path/to/img"
+  avatar: "assets/images/head-shot.jpg"
   bio: "PhD Candidate at Caltech"
   location: "Pasadena, CA"
   email: "jaehongkim86@gmail.com"
@@ -60,6 +60,7 @@ keep_files:
   - .git
 include:
   - _pages
+  - _sass
 exclude:
   - vendor
   - Gemfile
