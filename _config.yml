@@ -93,7 +93,9 @@ staticman:
 
 # Analytics
 analytics:
-  provider: "custom" # google-universal
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-123362643-1"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
