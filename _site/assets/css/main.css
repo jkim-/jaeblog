@@ -4045,6 +4045,47 @@ a.reversefootnote {
   .adsbygoogle {
     display: none !important;
     height: 1px !important; } }
+.sidebar {
+  clear: both;
+  margin-bottom: 1em; }
+  .sidebar::after {
+    clear: both;
+    content: "";
+    display: table; }
+  @media (max-width: 64em) {
+    .sidebar {
+      /* fix z-index order of follow links */
+      position: relative;
+      z-index: 10;
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0); } }
+  @media (min-width: 64em) {
+    .sidebar {
+      float: left;
+      width: calc(200px - 1em);
+      opacity: 1; }
+      .sidebar.sticky {
+        overflow-y: auto;
+        /* calculate height of nav list */
+        height: calc( 100vh - 90px - 2em ); } }
+  @media (min-width: 80em) {
+    .sidebar {
+      width: calc(300px - 1em); } }
+  .sidebar h2,
+  .sidebar h3,
+  .sidebar h4,
+  .sidebar h5,
+  .sidebar h6 {
+    margin-bottom: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; }
+  .sidebar p,
+  .sidebar li {
+    font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+    font-size: 0.75em;
+    line-height: 1.5; }
+  .sidebar img {
+    width: 100%; }
+
 .author__avatar {
   display: table-cell;
   vertical-align: top;
@@ -4056,7 +4097,7 @@ a.reversefootnote {
       width: auto;
       height: auto; } }
   .author__avatar img {
-    max-width: 110px;
+    max-width: 150px;
     border-radius: 5%; }
     @media (min-width: 64em) {
       .author__avatar img {
